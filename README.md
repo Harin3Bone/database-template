@@ -12,7 +12,7 @@ This repository made for create simple of Database with Docker
 
 ## Project
 1. [MySQL](https://github.com/Harin3Bone/database-template/tree/main/mysql)
-2. PostgreSQL
+2. [PostgreSQL](https://github.com/Harin3Bone/database-template/tree/main/postgresql)
 
 ## Reference
 * [MySQL](https://hub.docker.com/_/mysql)
